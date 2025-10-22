@@ -24,7 +24,10 @@ AI-powered enterprise chatbot using NLP to answer employee queries on HR, IT, an
 1. Upload a PDF or text document.  
 2. Ask questions related to the document or organizational policies.  
 3. Receive summarized answers or relevant sentences with personalized emojis.  
-4. Exit the chatbot using commands like `bye` or `bye bot`.
+4. Exit the chatbot.
+
+## Sample Code-Run : 
+<img width="746" height="493" alt="image" src="https://github.com/user-attachments/assets/c27af921-2339-4390-8374-c8b9c8d69191" />
 
 ## Goal
 To provide a secure, intelligent, and scalable virtual assistant that helps employees efficiently navigate organizational policies and procedures.
